@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0077B6,100:03045E&height=140&section=header" alt="Header Wave"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=YASSER+AL-HUMAIDI;Artificial+Intelligence+%26+ML+Engineer;Deep+Learning+%26+Computer+Vision+Specialist;Python+%26+Backend+Software+Architect;AI-Augmented+Developer+(Claude+%E2%80%A2+Cursor+%E2%80%A2+Antigravity)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=YASSER+AL-HUMAIDI;Artificial+Intelligence+%26+ML+Engineer;Deep+Learning+%26+Computer+Vision+Specialist;Python+%26+Backend+Software+Architect;Claude+%E2%80%A2+Cursor+%E2%80%A2+Antigravity+%E2%80%A2+Hermes" alt="Typing SVG" />
 
 <br/>
 
@@ -21,20 +21,18 @@
 
 <br/>
 
-### 🌐 Connect With Me Directly
+### 🌐 Connect With Me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+967_774434155-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967774434155)
-[![Telegram Direct](https://img.shields.io/badge/Telegram-Direct_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+967774434155)
+[![Telegram Direct](https://img.shields.io/badge/Telegram-@Hjnnnon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hjnnnon)
 [![Telegram Community](https://img.shields.io/badge/Telegram-Programmers_Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Programmers_1_Community_1)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/?locale=ar_AR)
-[![Gmail](https://img.shields.io/badge/Email-alhomidyyasser@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhomidyyasser@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhomidyyasser@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-alhomidyyasser--cmyk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alhomidyyasser-cmyk)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alhomidyyasser-cmyk&label=PROFILE+VIEWS&color=00D9FF&style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Sana'a,_Yemen-0077B6?style=flat-square&logo=googlemaps&logoColor=white)
-![Phone](https://img.shields.io/badge/Phone-+967_774434155-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Building_Intelligent_Systems-00F5D4?style=flat-square)
 
 </div>
 
@@ -54,7 +52,7 @@ I believe that great software engineering is not just about writing code — it'
 - 👁️ **Computer Vision & Real-Time Perception:** Object detection, tracking, pose estimation, and visual analytics using **YOLO, OpenCV, and MediaPipe**.
 - 📊 **Data Science & Analytical Processing:** High-performance numerical computing and data manipulation with **NumPy and Pandas**.
 - 🕷️ **Web Scraping & Intelligent Automation:** Extracting, cleaning, and structuring large-scale web data using automated pipelines.
-- 🤖 **AI-Augmented Software Engineering:** Leveraging next-generation AI coding agents and LLMs (**Claude, Cursor, Antigravity, Hermes**) for rapid, high-precision system building.
+- 🤖 **AI-Augmented Software Engineering:** Leveraging next-generation AI coding agents and LLMs (**Claude, Cursor, Antigravity, and Hermes**) for rapid, high-precision system building.
 - ⚙️ **Backend, Desktop & Game Engineering:** Building fast RESTful APIs (**FastAPI**), relational databases (**SQLite**), cross-platform GUIs (**Flet, PyQt**), and 3D interactive applications (**Ursina Engine**).
 
 <br/>
@@ -72,8 +70,8 @@ I believe that great software engineering is not just about writing code — it'
 [![Claude AI](https://img.shields.io/badge/Claude_AI_%26_Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![Cursor IDE](https://img.shields.io/badge/Cursor_AI_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)](https://cursor.com)
 [![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/alhomidyyasser-cmyk)
-[![Hermes LLM](https://img.shields.io/badge/Hermes_AI_(Nous_Research)-7000FF?style=for-the-badge&logo=probot&logoColor=00D9FF)](https://github.com/alhomidyyasser-cmyk)
-[![Prompt Engineering](https://img.shields.io/badge/AI_Agents_%26_Workflows-0A192F?style=for-the-badge&logo=openai&logoColor=00F5D4)](https://github.com/alhomidyyasser-cmyk)
+[![Hermes AI](https://img.shields.io/badge/Hermes_AI_(Nous_Research)-7000FF?style=for-the-badge&logo=probot&logoColor=00D9FF)](https://github.com/alhomidyyasser-cmyk)
+[![AI Workflows](https://img.shields.io/badge/AI_Agents_%26_Workflows-0A192F?style=for-the-badge&logo=openai&logoColor=00F5D4)](https://github.com/alhomidyyasser-cmyk)
 
 </div>
 
@@ -114,10 +112,10 @@ I believe that great software engineering is not just about writing code — it'
   &nbsp;&nbsp;
   <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/></a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Web_Scraping-00D9FF?style=for-the-badge&logo=databricks&logoColor=black"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Selenium_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrapy_%26_Requests-60A839?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Scraping-00D9FF?style=for-the-badge&logo=databricks&logoColor=black" alt="Web Scraping"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="BeautifulSoup4"/>
+  <img src="https://img.shields.io/badge/Selenium_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Scrapy_%26_Requests-60A839?style=for-the-badge&logo=python&logoColor=white" alt="Scrapy"/>
 </p>
 
 <br/>
@@ -139,9 +137,9 @@ I believe that great software engineering is not just about writing code — it'
   &nbsp;&nbsp;
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman"/></a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 <br/>
@@ -152,8 +150,8 @@ I believe that great software engineering is not just about writing code — it'
   &nbsp;&nbsp;
   <a href="https://riverbankcomputing.com/software/pyqt/intro"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50" height="50" alt="PyQt"/></a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Flet_Framework-E91E63?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyQt_GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flet_Framework-E91E63?style=for-the-badge&logo=flutter&logoColor=white" alt="Flet"/>
+  <img src="https://img.shields.io/badge/PyQt_GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt"/>
 </p>
 
 <br/>
@@ -162,7 +160,7 @@ I believe that great software engineering is not just about writing code — it'
 <p align="center">
   <a href="https://www.ursinaengine.org/"><img src="https://avatars.githubusercontent.com/u/84342921?s=200&v=4" width="52" height="52" alt="Ursina Engine"/></a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Ursina_3D_Engine-7000FF?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ursina_3D_Engine-7000FF?style=for-the-badge&logo=unity&logoColor=white" alt="Ursina Engine"/>
 </p>
 
 <br/>
@@ -177,10 +175,10 @@ I believe that great software engineering is not just about writing code — it'
   &nbsp;&nbsp;
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/></a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 </div>
@@ -196,13 +194,13 @@ I believe that great software engineering is not just about writing code — it'
 | Domain | Technologies & Frameworks | Engineering Focus |
 |:---|:---|:---|
 | 🧠 **Machine & Deep Learning** | **PyTorch • TensorFlow** | Neural Networks, Model Training & Inference |
-| 👁️ **Computer Vision** | **OpenCV • YOLO • MediaPipe** | Real-Time Object Detection, Tracking & Hand/Pose Landmarks |
+| 👁️ **Computer Vision** | **OpenCV • YOLO • MediaPipe** | Real-Time Object Detection, Tracking & Pose Landmarks |
 | 📊 **Data Science & Analytics** | **NumPy • Pandas** | Matrix Operations, Feature Engineering & Data Pipelines |
-| 🕷️ **Web Scraping** | **BeautifulSoup • Selenium • Requests** | Automated Data Harvesting, Parsing & Web Automation |
+| 🕷️ **Web Scraping** | **BeautifulSoup4 • Selenium • Scrapy** | Automated Data Harvesting, Parsing & Web Automation |
 | 🤖 **AI-Driven Engineering** | **Claude • Cursor • Antigravity • Hermes** | Agentic Coding, LLM Integration & Rapid Prototyping |
 | 🐍 **Core Programming** | **Python** | Clean, Idiomatic, High-Efficiency Code |
 | 🏛️ **Architecture** | **Software Architecture** | Scalable, Modular & Maintainable Systems |
-| 🧩 **OOP & Design** | **OOP • Design Patterns** | SOLID Principles, Abstraction & Reusable Solutions |
+| 🧩 **OOP & Design** | **OOP • Software Design Patterns** | SOLID Principles, Abstraction & Reusable Solutions |
 | ⚡ **Backend Engineering** | **FastAPI & RESTful APIs** | High-Performance Asynchronous Web Services |
 | 🗄️ **Database Management** | **SQLite & Database Design** | Relational Schema Modeling & Data Integrity |
 | 🖥️ **Desktop & Cross-Platform** | **PyQt • Flet** | Rich Native & Multi-Platform User Interfaces |
